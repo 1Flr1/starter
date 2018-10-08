@@ -16,5 +16,5 @@ Acutellement je le modifie depuis VS code.
 Le add/commit fonctionne
 
 On tente maintenant le push
-
 Push Fonctionnne en terminal
+Et en interface visuel
